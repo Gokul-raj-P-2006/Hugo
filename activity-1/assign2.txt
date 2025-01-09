@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<head>
+    <title>Assignment-1b</title>
+</head>
+<body>
+    <style>
+        body {
+    font-family: Arial;
+    color: rgb(68, 68,68s);
+    background-color: #c2ece5;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    color: black;
+    padding: 5px ;
+}
+
+dl{
+    margin-left: 40px;
+}
+    </style>
+    <header>
+        <h1>Assignment - 1B</h1>
+    </header>
+    <br>
+    <h2 style="text-decoration: underline;">Winter Semester 2024-2025:</h2>
+        <li style="font-weight: 600;">Web Programming</li>
+        <li style="font-weight: 600;">Microprocessors and Microcontrollers</li>
+        <li style="font-weight: 600;">Computer Architecture and Organization</li>
+        <li style="font-weight: 600;">Design and Analysis of Algorithms</li>
+        <li style="font-weight: 600;">Probability and Statistics</li>
+        <li style="font-weight: 600;">Theory of Computation</li>
+        <li style="font-weight: 600;">Quantitative Skills Practice II</li>
+        <li style="font-weight: 600;">Essence of Traditional Knowledge</li>
+<br>
+    <h2 style="text-decoration: underline;">Programming languages:</h2>
+    <li style="font-weight: 600;">Python (9)</li>
+    <li style="font-weight: 600;">C (5)</li>
+    <li style="font-weight: 600;">C++ (5)</li>
+    <li style="font-weight: 600;">HTML (10)</li>
+    <li style="font-weight: 600;">CSS (9)</li>
+    <li style="font-weight: 600;">Java (9)</li>
+    <li style="font-weight: 600;">JavaScript (9)</li><br>
+
+    <h2> <span style="text-decoration: underline;">Favourite Movies:</span></h2>
+            <dt><h3 style="text-align: center;text-shadow: 0px 5px 20px rgb(0, 0, 0);">The Stranger Things (2018)</h3></dt><br>
+            <strong>Director:</strong> Christopher Nolan.<br><br>
+            <strong>Cast:</strong> Matthew McConaughey, Anne Hathaway, Jessica Chastain.<br><br>
+            <strong>Genre:</strong> Science Fiction, Drama.<br><br>
+            <strong>Plot:</strong>Set in a near-future Earth, facing environmental collapse. A group of astronauts, led by Cooper (McConaughey), journey through a wormhole in search of a new habitable planet for humanity. Themes of love, time, sacrifice, and survival are central to the story. The film incorporates real scientific theories, particularly about black holes and relativity. Stunning visual effects, especially the depiction of space and distant planets, along with Hans Zimmer's haunting score, elevate the emotional depth of the film.<br>
+            <br><strong>Notable Features:</strong> Breathtaking visual effects of space and time dilation, Hans Zimmer's iconic score, and philosophical exploration of love transcending time.<br>
+            <br><br>
+            
+            <dt><h3 style="text-align: center;text-shadow: 0px 5px 20px rgb(0, 0, 0);">The Wolf of the wall street (2019)</h3></dt>
+            <br><strong>Director:</strong> Christopher Nolan</dd><br>
+            <br><strong>Cast:</strong> Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page.</dd><br>
+            <br><strong>Genre:</strong> Science Fiction, Thriller.</dd><br>
+            <br><strong>Plot:</strong> Dom Cobb (DiCaprio), a skilled thief who specializes in entering people's dreams to steal secrets, is tasked with planting an idea into someone's subconscious in a process known as "inception." The film explores the complex layers of dreams and reality, challenging the audience's perception of time and consciousness. The storyline is a philosophical exploration of grief, guilt, and the nature of reality, while also delivering thrilling action sequences.
+            <br><br><strong>Notable Features:</strong> Mind-bending dream layers, thrilling action sequences (like the zero-gravity fight), and a complex narrative structure that blurs the lines between reality and dream.</dd>
+            <br><br><br>
+            
+            <dt><h3 style="text-align: center;text-shadow: 0px 5px 20px rgb(0, 0, 0);">Breaking Bad (2015)</h3></dt>
+            <br><strong>Director:</strong> James Cameron<br>
+            <br><strong>Cast:</strong> Sam Worthington, Zoe Saldana, Sigourney Weaver.</dd><br>
+            <br><strong>Genre:</strong> Science Fiction, Adventure.</dd><br>
+            <br><strong>Plot:</strong> Set on the alien planet of Pandora, Avatar follows Jake Sully (Worthington), a paraplegic former Marine who joins the Avatar Program. Using an avatar to control a Na'vi body, Jake immerses himself in the world of the indigenous Na'vi people. As he becomes more deeply connected with their culture and environment, he must decide whether to side with the human invaders exploiting the planet or fight to protect the Na'vi from destruction.
+            <br><br><strong>Notable Features:</strong> Revolutionary 3D and visual effects, world-building of Pandora, themes of environmentalism and colonialism, and the relationship between Jake and Neytiri (Saldana).</dd>
+<br></body>
+</html>
